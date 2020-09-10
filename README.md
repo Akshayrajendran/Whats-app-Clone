@@ -1,3 +1,25 @@
+This project was built by watch Clever programmer youtube channel.
+
+Video-https://www.youtube.com/watch?v=pUxrDcITyjg&t=9910s
+
+
+Deployment - https://whatsapp-clone-8c318.web.app/
+
+
+Drop Email to akshayrajendran5595@gmail.com for support.
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
