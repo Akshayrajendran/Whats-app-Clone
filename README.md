@@ -1,4 +1,4 @@
-This project was built by watch Clever programmer youtube channel.
+This project was built by watching Clever programmer youtube channel.
 
 Video-https://www.youtube.com/watch?v=pUxrDcITyjg&t=9910s
 
